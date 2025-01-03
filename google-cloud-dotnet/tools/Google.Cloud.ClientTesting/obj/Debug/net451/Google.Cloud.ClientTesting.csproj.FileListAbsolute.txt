@@ -1,0 +1,17 @@
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Google.Cloud.ClientTesting.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Google.Cloud.ClientTesting.pdb
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Google.Apis.PlatformServices.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Google.Apis.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Google.Apis.Core.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Newtonsoft.Json.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\xunit.abstractions.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\xunit.assert.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\xunit.core.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\xunit.execution.dotnet.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\bin\Debug\net451\Zlib.Portable.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\obj\Debug\net451\Google.Cloud.ClientTesting.csprojResolveAssemblyReference.cache
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\obj\Debug\net451\Google.Cloud.ClientTesting.csproj.CoreCompileInputs.cache
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\obj\Debug\net451\Google.Cloud.ClientTesting.AssemblyInfo.cs
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\obj\Debug\net451\Google.Cloud.ClientTesting.dll
+C:\dev\3rdParty\Google\google-cloud-dotnet\tools\Google.Cloud.ClientTesting\obj\Debug\net451\Google.Cloud.ClientTesting.pdb
